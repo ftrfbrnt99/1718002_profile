@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="born">FEBRUARY 1999, 15Tth</string>
+    <string name="knowledge">Informatic Engginering 17</string>
+    <string name="phone">Telephone</string>
+    <string name="action_setting_language">Language</string>
+    <string name="address">Jl.Tanjung Sari GG.01 Karangploso</string>
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Indonesian</item>
+    </string-array>
+</resources>

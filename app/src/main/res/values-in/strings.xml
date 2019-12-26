@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profil</string>
+    <string name="action_setting_language">bahasa</string>
+    <string name="address">Jl.Tanjung Sari GG.01 Karangploso</string>
+    <string name="born">15 FEBRUARI 1999</string>
+    <string name="knowledge">Teknik Informatika 17</string>
+    <string name="phone">Telepon</string>
+</resources>
